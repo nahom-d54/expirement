@@ -1,0 +1,5 @@
+# Shell Expirements
+
+	# usage
+
+	./gitaddpush    
