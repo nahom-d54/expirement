@@ -1,6 +1,5 @@
 #!/bin/bash
 git add .
-echo "Type commit Message: "
-read x
-git commit -m $x 
+read -p "Type commit Message:  " x
+git commit -m "$x" 
 git push
